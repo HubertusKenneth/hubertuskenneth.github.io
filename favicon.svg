@@ -1,10 +1,19 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" fill="none">
-  <rect width="32" height="32" rx="8" fill="url(#grad)"/>
-  <text x="50%" y="55%" dominant-baseline="middle" text-anchor="middle" fill="white" font-family="Inter, sans-serif" font-weight="700" font-size="18">H</text>
-  <defs>
-    <linearGradient id="grad" x1="0" y1="0" x2="32" y2="32">
-      <stop offset="0%" stop-color="#6366f1"/>
-      <stop offset="100%" stop-color="#8b5cf6"/>
-    </linearGradient>
-  </defs>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <style>
+    text {
+      fill: #1a1a1a;
+      font-family: Georgia, serif;
+      font-weight: bold;
+      font-style: italic;
+      font-size: 70px;
+    }
+    @media (prefers-color-scheme: dark) {
+      text {
+        fill: #ffffff;
+      }
+    }
+  </style>
+  <text x="50%" y="55%" dominant-baseline="middle" text-anchor="middle">
+    HK
+  </text>
 </svg>
