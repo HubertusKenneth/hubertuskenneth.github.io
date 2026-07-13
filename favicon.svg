@@ -5,7 +5,7 @@
       font-family: Georgia, serif;
       font-weight: bold;
       font-style: italic;
-      font-size: 70px;
+      font-size: 62px;
     }
     @media (prefers-color-scheme: dark) {
       text {
@@ -13,7 +13,7 @@
       }
     }
   </style>
-  <text x="50%" y="55%" dominant-baseline="middle" text-anchor="middle">
+  <text x="48%" y="55%" dominant-baseline="middle" text-anchor="middle">
     HK
   </text>
 </svg>
